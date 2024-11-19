@@ -1,12 +1,32 @@
 html {
     height: 100%;
     width: 100%;
-    background-color: rgba(75, 186, 223, 0.914);
+    background-color: black;
 }
 h1 {
     font-family: copperplate, Times, fantasy;
   }
 
 h1 {
-    color: red ;
+    color: white ;
+}
+
+h3 {
+    color: white ;
+}
+p1 {
+    color: white ;
+}
+
+#kh1 {
+    border: 5px solid grey;
+    margin-left: 17%;
+    margin-right: 17%;
+    padding-left: 0.7%;
+    padding-right: 0.7%;
+    padding-top: 0.7%;
+    padding-bottom: 0.7%;
+}
+p2{
+    color: black
 }
